@@ -1,49 +1,4 @@
-Table 1: Summary of BICR-Assessed Progression-Free Survival (PFS) – Stratified Analysis; ITT Population (Study HRUS 1001)
 
-Notes: [a] p-value is from a log-rank test stratified by Factor 1 (Level 1 vs Level 2) and Factor 2 (Level 1 vs Level 2 vs 
-Level 3). [b] Hazard ratio is from a stratified proportional hazards model with a single factor of treatment group, 
-stratified by Factor 1 (Level 1 vs Level 2) and Factor 2 (Level 1 vs Level 2 vs Level 3).  Hazard ratio < 1 favors Treatment A.
-+ = censored observation, NE = not estimable
- 
-Table 2: Summary of Investigator-Assessed Progression-Free Survival (PFS) – Stratified Analysis; ITT Population (Study HRUS 1001)
-
-Notes: [a] p-value is from a log-rank test stratified by Factor 1 (Level 1 vs Level 2) and Factor 2 (Level 1 vs Level 2 vs 
-Level 3). [b] Hazard ratio is from a stratified proportional hazards model with a single factor of treatment group, 
-stratified by Factor 1 (Level 1 vs Level 2) and Factor 2 (Level 1 vs Level 2 vs Level 3).  Hazard ratio < 1 favors Treatment A.
-+ = censored observation, NE = not estimable
- 
-Table 3: Summary of Overall Survival (OS) – Stratified Analysis; ITT Population (Study HRUS 1001)
-
-Notes: [a] p-value is from a log-rank test stratified by Factor 1 (Level 1 vs Level 2) and Factor 2 (Level 1 vs Level 2 vs 
-Level 3). [b] Hazard ratio is from a stratified proportional hazards model with a single factor of treatment group, 
-stratified by Factor 1 (Level 1 vs Level 2) and Factor 2 (Level 1 vs Level 2 vs Level 3).  Hazard ratio < 1 favors Treatment A.
-+ = censored observation, NE = not estimable
- 
-Table 4:  Summary of BICR-Assessed Objective Response Rate (ORR); ITT Population (Study HRUS 1001)
-Notes: [1] ORR is defined as the complete response rate + partial response rate, per independent reader by RECIST guideline 
-version 1.1; confidence interval is based on the Clopper-Pearson method.
-[2] The stratification factors are Factor 1 (Level 1 vs Level 2) and Factor 2 (Level 1 vs Level 2 vs Level 3).
-
-Table 5:  Summary of Investigator-Assessed Objective Response Rate (ORR); ITT Population (Study HRUS 1001)
-
-Notes: [1] ORR is defined as the complete response rate + partial response rate, per independent reader by RECIST guideline 
-version 1.1; confidence interval is based on the Clopper-Pearson method.
-[2] The stratification factors are Factor 1 (Level 1 vs Level 2) and Factor 2 (Level 1 vs Level 2 vs Level 3).
-
-Table 6: Summary of Duration of BICR-Assessed Response (DOR) – Stratified Analysis; ITT Population (Study HRUS 1001)
-
-Notes: [a] p-value is from a log-rank test stratified by Factor 1 (Level 1 vs Level 2) and Factor 2 (Level 1 vs Level 2 vs 
-Level 3). [b] Hazard ratio is from a stratified proportional hazards model with a single factor of treatment group, 
-stratified by Factor 1 (Level 1 vs Level 2) and Factor 2 (Level 1 vs Level 2 vs Level 3).  Hazard ratio < 1 favors Treatment A.
-+ = censored observation, NE = not estimable
- 
-Table 7: Summary of Duration of Investigator-Assessed Response (DOR) – Stratified Analysis; ITT Population (Study HRUS 1001)
-
-Notes: [a] p-value is from a log-rank test stratified by Factor 1 (Level 1 vs Level 2) and Factor 2 (Level 1 vs Level 2 vs 
-Level 3). [b] Hazard ratio is from a stratified proportional hazards model with a single factor of treatment group, 
-stratified by Factor 1 (Level 1 vs Level 2) and Factor 2 (Level 1 vs Level 2 vs Level 3).  Hazard ratio < 1 favors Treatment A.
-+ = censored observation, NE = not estimable
- 
 Table 1.1: Summary of BICR-Assessed Progression-Free Survival (PFS) - Stratified Analysis
 ITT population
 
