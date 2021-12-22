@@ -1,12 +1,12 @@
 options sasautos=("S:\Global macros") ;
 
-libname adam "S:\DEV\Pyrotinib\SHRUS1001\CSR\data\adam";
-libname sdtm "S:\DEV\Pyrotinib\SHRUS1001\CSR\data\sdtm";
+libname adam "xxxxxxxxx\adam";
+libname sdtm "xxxxxxxxx\sdtm";
 
 %global protocol outdir txtfile; 
 %let protocol=SHRUS1001;
-%let outdir=S:\DEV\Pyrotinib\SHRUS1001\CSR\programs\efficacy; 
-%let txtfile=S:\DEV\Pyrotinib\SHRUS1001\CSR\programs\efficacy\title1.txt;
+%let outdir=xxxxxxxxxxxxxxx\efficacy; 
+%let txtfile=xxxxxxxxxxxxxxx\efficacy\title1.txt;
 
  data _null_;
       set sashelp.vextfl;
